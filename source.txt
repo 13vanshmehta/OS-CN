@@ -1,0 +1,7 @@
+IOS PRACTRICAL STUDY MATERIAL:
+1. https://www.geeksforgeeks.org/networking-commands-for-troubleshooting-windows/
+2. https://www.computernetworkingnotes.com/networking-tutorials/basic-networking-commands-explained-with-examples.html
+3. https://www.geeksforgeeks.org/linux-commands-cheat-sheet/
+4. https://itsfoss.com/basic-linux-networking-commands/
+5. PDF's
+6. https://github.com/13vanshmehta/OS-CN
